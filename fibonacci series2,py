@@ -1,0 +1,15 @@
+k=int(input("k: "))
+sum1=0
+a=0
+b=1
+count=0
+s=0
+while(sum1<k):
+    print(sum1)
+    a=b
+    b=sum1
+    sum1=a+b
+    if(count%2==0):
+        s+=b
+    count+=1
+    print("sum:",s)

@@ -1,0 +1,33 @@
+*{margin: 0;}
+
+body{
+    color: blanchedalmond;
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h1{
+    font-size:18pt;
+    color: cornflowerblue;
+}
+p{
+    font-size: 12pt;
+    color: seagreen;
+}
+
+table{
+    background-color: darkorange;
+    border-style: solid;
+    border-width: 2px;
+    border-color: dimgrey;
+}
+th{
+    background-color: hotpink;
+    font-weight: bold;
+    padding: 3px;
+}
+.code{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
